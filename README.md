@@ -9,7 +9,7 @@
    ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A79C91&center=true&vCenter=true&width=700&lines=BS+Computer+Science+Student+%40+GCU+Lahore;MERN+%7C+Next.js+%7C+Full-Stack+Developer;Building+production-ready+web+applications;Open+to+internships+%26+freelance+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=6A3BA2&center=true&vCenter=true&width=700&lines=BS+Computer+Science+Student+%40+GCU+Lahore;MERN+%7C+Next.js+%7C+Full-Stack+Developer;Building+production-ready+web+applications;Open+to+internships+%26+freelance+opportunities)](https://git.io/typing-svg)
 
 </div>
 

@@ -2,7 +2,7 @@
 
 - 👨‍💻 A **Full-Stack / MERN Developer**
 - 🎓 **BS Computer Science Student** at Government College University, Lahore
-- 🔭 Currently: **Learning Gen-Ai**
+- 🔭 Currently: Exploring Generative AI, LLMs, RAG Systems & AI Agents
 - 🌱 **Learning**: Cloud Deployment, DevOps & Backend Engineering
 - 🤝 **Open to**: Internships, freelance opportunities & full-stack collaborations
 - 💬 Ask me about: **Next.js, React, Node.js, Express, MongoDB, REST APIs, Docker & AWS**
